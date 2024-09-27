@@ -1,7 +1,6 @@
-College Projects
-
-
+# College Projects
 This repository contains various projects developed throughout my studies in the Programmer-Analyst in Information Technology program at College LaSalle, Montreal. The projects cover a range of technologies learned during the classes, including:
+
 
 Programming Languages:
 
